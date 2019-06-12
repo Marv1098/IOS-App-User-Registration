@@ -9,7 +9,7 @@
 import Alamofire
 import UIKit
 
-let URL_USER_REGISTER = "https://192.168.0.6/myiosapp/v1/register.php"
+let URL_USER_REGISTER = "http://localhost/myiosapp/v1/register.php"
 
 class ViewController: UIViewController {
 

@@ -6,7 +6,6 @@ target 'myiosapp' do
   use_frameworks!
 
   # Pods for myiosapp
-  use_frameworks!
   pod 'Alamofire', '~> 4.3'
 
   target 'myiosappTests' do
